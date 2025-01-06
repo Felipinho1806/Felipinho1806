@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<br>
+
 ![Felipinho1806 GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipinho1806&show_icons=true&theme=cobalt)
 
 ## Tecnologias que uso: 
