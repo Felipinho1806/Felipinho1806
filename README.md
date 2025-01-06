@@ -16,6 +16,8 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipinho1806&layout=compact)](https://github.com/Felipinho1806/github-readme-stats)
 
 ## O que planejo aprender em seguida:
