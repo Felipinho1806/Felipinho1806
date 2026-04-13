@@ -26,7 +26,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipinho1806&layout=compact)](https://github.com/Felipinho1806/github-readme-stats)
+
 
 ## O que planejo aprender em seguida:
 <div style="display: inline_block">
