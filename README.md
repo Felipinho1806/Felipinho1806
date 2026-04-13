@@ -12,7 +12,7 @@
 
 <br>
 
-![Felipinho1806 GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipinho1806&show_icons=true&theme=cobalt)
+
 
 ## Tecnologias que uso: 
 <div style="display: inline_block">
